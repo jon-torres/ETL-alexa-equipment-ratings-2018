@@ -6,7 +6,7 @@ This ETL (Extract, Transform, Load) project focuses on analyzing Amazon Alexa pr
 
 ## Extract
 
-- Data Source: [Amazon Alexa Reviews](<[link_to_data_source](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews)>)
+- Data Source: [Amazon Alexa Reviews](https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews)
 - Tools Used: Python, Pandas
 
 In the extraction phase, we retrieved the dataset from a CSV file, which contained information about product ratings and variations.

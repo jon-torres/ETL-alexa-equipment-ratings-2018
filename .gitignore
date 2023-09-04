@@ -1,0 +1,6 @@
+# Environment variables and configuration files.
+.env
+.vscode
+
+# Database files.
+amazon_alexa_rating.db
